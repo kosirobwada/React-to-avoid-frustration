@@ -1,0 +1,7 @@
+# モダンJavaScriptの基礎から始める挫折しないためのReact入門
+
+Udemyの[モダンJavaScriptの基礎から始める挫折しないためのReact入門](https://www.udemy.com/course/modern_javascipt_react_beginner/) の学習記録です。
+
+このコースでは、モダンJavaScriptを取り巻く周辺知識や仕組みの概念について学び、次にReact開発で使用するモダンJavaScriptの機能を学びます。JavaScriptだけで作成したアプリケーションと同じものをReactで開発することでReactの理解をさらに深めます。
+
+## 学習記録
