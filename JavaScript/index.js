@@ -207,3 +207,48 @@
 // newNameArr.map((name, index) => {
 //     console.log(`${index + 1}番目は${name}です。`)
 // })
+
+// 三項演算子
+// ある条件 ? true : false
+// const val1 = 1 > 0 ? "この条件はtrue" : "この条件はfalse"
+// console.log(val1)
+
+// const num = 1300
+// console.log(num.toLocaleString())
+
+// const formattedNum = typeof num === 'number' ? num.toLocaleString() : "数値を入力してください"
+// console.log(formattedNum)
+
+// const checkSum = (num1, num2) => {
+//     return num1 + num2 > 100 ? true : false;
+// }
+// // console.log(checkSum(40, 50))
+// console.log(checkSum(60, 70))
+
+// const val = NaN
+// if (val) {
+//     console.log("truethy")
+// }
+// else {
+//     console.log("falsy")
+// }
+
+// const flag1 = true
+// const flag2 = false
+
+// if (flag1 || flag2) {
+//     console.log("1 or 2 is true")
+// }
+// if (flag1 && flag2) {
+//     console.log("1 and 2 is true")
+// }
+
+// ||は左側がtruthyの時はその時点で返却する。
+// const num = 100
+// const fee = num || "金額未設定です。"
+// console.log(fee)
+
+// &&は左側がfalsyの時はその時点で返却する。
+// const num2 = 100
+// const fee2 = num2 && "何か設定されました"
+// console.log(fee2)
